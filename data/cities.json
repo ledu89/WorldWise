@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Navailles-Angos",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-31T15:13:05.466Z",
+      "notes": "",
+      "position": {
+        "lat": "43.389081939117496",
+        "lng": "-0.32958984375000006"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Lagueruela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T15:13:33.849Z",
+      "notes": "",
+      "position": {
+        "lat": "41.02964338716641",
+        "lng": "-1.2304687500000002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sankt Ruprecht an der Raab",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-08-10T10:44:19.773Z",
+      "notes": "dadas",
+      "position": {
+        "lat": "47.2195681123155",
+        "lng": "15.677490234375002"
+      },
+      "id": 3
+    }
+  ]
+}
